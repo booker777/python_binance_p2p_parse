@@ -1,2 +1,4 @@
 # python_binance_p2p_parse
-Парсер Binance любой валютной пары на Python
+ПАРСЕР Binance ЛЮБОЙ P2P ПАРЫ.
+
+
